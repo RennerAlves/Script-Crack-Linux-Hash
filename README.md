@@ -18,7 +18,7 @@ O crackLinuxHash.py é um script que recebe 3 argumentos:
 
 
 Para executar o script, a forma de utilizá-lo é similar a esta:
-python crackLinuxHash.py myhashes wordlist.txt senhasEncontradas.txt
+python -W ignore crackLinuxHash.py myhashes wordlist.txt senhasEncontradas.txt
 
 
 
